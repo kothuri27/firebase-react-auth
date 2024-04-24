@@ -75,7 +75,7 @@ Follow these steps to set up Firebase for authentication in your project.
 ## Project Structure
 
 The project structure follows the standard React application structure.
-
+```
 react-firebase-authentication/
 ├── public/
 │ ├── index.html
@@ -91,7 +91,7 @@ react-firebase-authentication/
 ├── package.json
 └── ...
 
-
+```
 ## Usage
 
 To start the development server and view the app in your browser, run the following command:
